@@ -1,0 +1,130 @@
+@charset "utf-8";
+/* CSS Document */
+/*Template Layout*/
+
+body {
+	background-color:#FFFFFF;
+	width: 910px;
+	height: 400px auto;
+	margin: 1.5em auto;
+	padding:0px;
+	color:#666699;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	line-height:1.5em;
+	letter-spacing: normal;
+}
+
+
+h1 {
+	font-family:"Cambria",Alex Brush,Trebuchet MS, Arial, Helvetica, sans-serif;
+	font-size:30px;
+	text-align: center;
+	color:#000000;
+	margin:0px;
+	padding:0px;
+	line-height:30px;
+	font-weight:normal;
+}
+h2 {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#ffccff;
+	margin:0px;
+	padding:7px;
+	font-weight:normal;
+}
+h3 {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color: rgb(128,0,0);
+	margin:0px;
+	padding:0px;
+	font-weight:normal;
+	
+}
+h4 {
+	color: #0FF;
+	font-family:  Garamond, "Times Roman", serif;
+	font-weight: lighter;
+	text-decoration: blink;
+	font-style: italic;
+}
+
+h5 {
+	color: #0FF;
+	font-family:  Garamond, "Times Roman", serif;
+	font-weight: lighter;
+	text-decoration: blink;
+	font-style: italic;
+}
+
+h6 {
+	color: #0FF;
+	font-family:  Garamond, "Times Roman", serif;
+	font-weight: lighter;
+	text-decoration: blink;
+	font-style: italic;
+}
+html {
+	
+	background-image: url('.jpg');
+	background-repeat:repeat;
+	background-color:#89006b ;
+	width: 1000px auto;
+	height: 1000px auto;
+	margin: 1.5em auto;
+}
+
+.button {
+	
+}
+
+.nav {
+	
+}
+
+#emblem {
+	padding-right: -4px;
+}
+
+#enter {
+	padding-left: 215px;
+}
+
+a {
+	font-weight: bold;
+	color: #06C;
+}
+acronym {
+	border-bottom: 1px dashed rgb(50,12,51);
+}
+
+a:link {
+	color: #066;
+	font-weight: bold;
+	text-decoration: none;
+	font-size:10px;
+}
+a:visited {
+	color: rgb(53,200,13);
+	text-decoration: overline;
+	font-weight: lighter;
+}
+
+a:hover {
+	font-weight: bold;
+	color: rgb(153,0,153);
+	text-decoration: underline;
+}
+
+a:active {
+	color: rgb(153,153,0);
+	text-decoration: none;
+}
+
+img{
+}
+
+
+
